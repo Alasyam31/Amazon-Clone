@@ -24,7 +24,7 @@ This is a front-end Amazon clone built using **HTML** and **CSS**. It replicates
 *Homepage of the Amazon Clone*
 
 ## View Live
-To view this project [Click Here](amazonclone31.vercel.app)
+To view this project [Click Here.](https://amazonclone31.vercel.app/)
 
 ## 🗂 Version Control
 
